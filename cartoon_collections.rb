@@ -7,7 +7,7 @@ def summon_captain_planet(long_planeteer_calls)
 end
 
 def long_planeteer_calls(array)
-  long_planeteer_calls.include? ()
+  long_planeteer_calls.include? (s)
 end
 
 def find_the_cheese# code an argument here
